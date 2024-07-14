@@ -2,7 +2,7 @@
 
 Análise Exploratória do Valores de Criptomoedas
 
-Este projeto foi realizado pelo Squad 3 para o Módulo 3 do curso Data Analytics. Neste projeto final, desenvolvemos uma Análise Exploratória dos valores de Criptomoedas escolhidas pela nossa equipe, onde respondemos questões relacionadas osobre seus valores.
+Este projeto foi realizado pelo Squad 3 para o Módulo 3 do curso Data Analytics. Neste projeto final, desenvolvemos uma Análise Exploratória dos valores de Criptomoedas escolhidas pela nossa equipe, onde respondemos questões relacionadas sobre seus valores.
 
 ### Squad
 
